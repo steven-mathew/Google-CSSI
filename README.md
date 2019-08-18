@@ -1,5 +1,6 @@
 Advanced Algorithms and Complexity
-##This course is part of the Data Structures and Algorithms Specialization
+---
+This course is part of the Data Structures and Algorithms Specialization
 
 Offered By
 ---
